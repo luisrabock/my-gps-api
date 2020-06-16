@@ -39,6 +39,7 @@ Start server:
 ```yarn dev```
 
 Youd need   two environment variables:
+
 ```MONGO_URI```    You can adjust this using the free MongoDB atlas cluster
 
 ```OAUTH_CLIENT_ID```   You achieve this by creating a client id with oauth2
