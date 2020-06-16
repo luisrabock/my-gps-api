@@ -26,7 +26,7 @@ An api that is used by the [Nearby](https://github.com/luisrabock/nearby-web) ap
 
 You need to install  [Node.js](https://nodejs.org/en/download/)  and  [Npm]([https://www.npmjs.com/](https://www.npmjs.com/))  first.
 
-Clone repo: [https://github.com/luisrabock/growth-tech-app](https://github.com/luisrabock/growth-tech-app)
+Clone repo: [https://github.com/luisrabock/nearby-api](https://github.com/luisrabock/nearby-api)
 
 🧪 **Development environment**:
 
@@ -39,7 +39,9 @@ Start server:
 ```yarn dev```
 
 Youd need   two environment variables:
+
 ```MONGO_URI```    You can adjust this using the free MongoDB atlas cluster
+
 ```OAUTH_CLIENT_ID```   You achieve this by creating a client id with oauth2
 
 
