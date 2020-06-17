@@ -19,7 +19,7 @@ mongoose
 
 const server = new ApolloServer({
     cors: {
-        origin: '*',
+        origin: '*', //cors
         credentials: true,
     },
     typeDefs,
